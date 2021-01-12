@@ -16,6 +16,7 @@ switch (comando) {
             console.log(tarea.descripcion);
             console.log('Estado: ', tarea.completado);
             console.log('============================='.green);
+
         }
         break;
     case 'borrar':
